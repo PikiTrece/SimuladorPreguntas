@@ -12,8 +12,7 @@ Además, el simulador permite **añadir y eliminar preguntas** fácilmente, adap
 
 - ✅ **Interfaz intuitiva y fácil de usar.**
 - 📚 **Varias categorías de preguntas para practicar.**
-- 📝 **Registro de respuestas y puntuaciones.**
-- ⏳ **Límites de tiempo para desafiar tus conocimientos.**
+- 📝 **Posibilidad de añadir o eliminar preguntas**
 - ⚡ **Diseñado para un rendimiento óptimo.**
 
 ---
