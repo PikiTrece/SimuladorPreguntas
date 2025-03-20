@@ -1,5 +1,5 @@
-
-## 🎓 **Simulador de Preguntas - Aplicación en Java**
+# SimuladorPreguntas
+# 🎓 Simulador de Preguntas - Aplicación en Java
 
 El **Simulador de Preguntas** es una aplicación de escritorio desarrollada en **Java** que permite a los usuarios visualizar preguntas de manera interactiva. Diseñado para el aprendizaje y la práctica, proporciona una interfaz amigable con diversas categorías de preguntas.
 
