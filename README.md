@@ -1,4 +1,3 @@
-# **Simulador de Preguntas**
 
 ## 🎓 **Simulador de Preguntas - Aplicación en Java**
 
